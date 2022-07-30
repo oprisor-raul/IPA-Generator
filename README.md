@@ -11,4 +11,4 @@ Make sure the SDKSettings.plist CODE_SIGNING_REQUIRED is set to NO
 4. Right click on the archive -> Show in Finder 
 5. Right click on the archive -> Products -> Applications -> Your App
 6. Copy the app to your desired folder  
-7. Run the Bash Script and enter the path to the file and the result will the .ipa file
+7. Run the Bash Script and enter the path to the file and the result will the .ipa 
